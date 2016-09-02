@@ -24,6 +24,7 @@ Fortunately there are configuration management tools available to do this for yo
 
 https://www.ansible.com/security-stig
 
+Stangely Ansible (a Red Hat company) is competing against OpenSCAP (another Red Hat company) against implementing a way to secure your server. Both projects are open source initiatives.
 
 
 
