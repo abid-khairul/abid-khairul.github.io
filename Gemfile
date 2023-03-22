@@ -13,7 +13,7 @@ source "https://rubygems.org"
 # To upgrade, run `bundle update`.
 
 # gem "jekyll"
-gem "github-pages", "~> 226", group: :jekyll_plugins
+gem "github-pages", "~> 228", group: :jekyll_plugins
 
 gem "wdm", "~> 0.1.0" if Gem.win_platform?
 
